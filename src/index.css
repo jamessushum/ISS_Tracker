@@ -1,0 +1,4 @@
+#issMap {
+  /* Leaflet map must have defined height */
+  height: 500px;
+}
